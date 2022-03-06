@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Omar
-- 👀 I’m interested in cybersecurity and malware analysis
-- 🌱 I’m currently learning Bash, Python, C/C++
+- 👋 Que tal, soy Omar
+- 👀 Me interesa la ciberseguridad y el analisis de malware
+- 🌱 Bash, Python, C/C++
 
 <!---
 oXmars/oXmars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
