@@ -1,5 +1,5 @@
 - 👋 Que tal, soy Omar
-- 👀 Me interesa la ciberseguridad y el analisis de malware
+- 👀 Me interesa la ciberseguridad
 - 🌱 Bash, Python, C/C++
 
 <!---
