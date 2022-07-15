@@ -1,4 +1,4 @@
-<h1 align="center">Que tal 👋, soy Omar</h1>
+<h1 align="center">Que tal, soy Omar ⸜(｡˃ ᵕ ˂ )⸝ </h1>
 <h3 align="center">Soy un estudiante de universidad que le apasiona la ciberseguridad</h3>
 
 
