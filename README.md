@@ -1,7 +1,7 @@
 <h3 align="center">Que tal, soy Omar <br>
 
 </h1>
-<h4 align="center">Soy un estudiante de universidad que le apasiona el pentesting</h4>
+<h4 align="center">Soy un estudiante autodidacta que le apasiona el pentesting</h4>
 
 <h2 align="center"><img src="https://media.tenor.com/3kx2gyt2aqQAAAAC/hololive-ouro-kronii.gif" width="250"></h2>
 
